@@ -35,7 +35,7 @@ root/
 │   ├── Project.ipynb
 │   ├── Project.pdf
 │   └── Executive_Summary.md
-└── README.md (this file)
+└── README.md 
 ```
 
 ## Team Members
